@@ -1,0 +1,1 @@
+CREATE SEQUENCE mydwh.tcx_config_seq;

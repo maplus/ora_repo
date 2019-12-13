@@ -1,0 +1,1 @@
+CREATE BITMAP INDEX mydwh.animal_name_bi ON mydwh.factproductinventory(unitcost);

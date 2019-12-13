@@ -1,0 +1,1 @@
+CREATE SEQUENCE mydwh.seq_share_dividend NOCACHE;

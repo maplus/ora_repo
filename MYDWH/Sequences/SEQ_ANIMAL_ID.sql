@@ -1,0 +1,1 @@
+CREATE SEQUENCE mydwh.seq_animal_id NOCACHE;

@@ -1,0 +1,1 @@
+GRANT SELECT ON user0.emp TO mydwh;

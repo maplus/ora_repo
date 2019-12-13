@@ -1,0 +1,1 @@
+CREATE SEQUENCE mydwh.tcx_team_projects_seq;

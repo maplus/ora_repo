@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX mydwh.tcx_objects_ndx ON mydwh.tcx_objects(config_id,project_id,object_type,object_owner,object_name);

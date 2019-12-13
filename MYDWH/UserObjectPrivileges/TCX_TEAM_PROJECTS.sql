@@ -1,0 +1,1 @@
+GRANT SELECT ON mydwh.tcx_team_projects TO PUBLIC;

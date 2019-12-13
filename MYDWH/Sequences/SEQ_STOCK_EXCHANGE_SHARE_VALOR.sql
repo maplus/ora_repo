@@ -1,0 +1,1 @@
+CREATE SEQUENCE mydwh.seq_stock_exchange_share_valor NOCACHE;

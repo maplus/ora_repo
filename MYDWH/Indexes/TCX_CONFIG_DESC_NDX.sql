@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX mydwh.tcx_config_desc_ndx ON mydwh.tcx_config(config_description);

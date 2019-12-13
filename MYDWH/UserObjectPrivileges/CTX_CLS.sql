@@ -1,0 +1,1 @@
+GRANT EXECUTE ON ctxsys.ctx_cls TO mydwh;

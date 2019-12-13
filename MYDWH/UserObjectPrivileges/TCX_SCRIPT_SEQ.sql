@@ -1,0 +1,1 @@
+GRANT SELECT ON mydwh.tcx_script_seq TO PUBLIC;
